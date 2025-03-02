@@ -1,4 +1,5 @@
 # in fact, math model is in another repo
+# TODO: fix this
 MATH_MODEL="meta-math/MetaMath-7B-V1.0"
 LAW_MODEL="AdaptLLM/law-chat"
 MED_MODEL="AdaptLLM/medicine-chat"
